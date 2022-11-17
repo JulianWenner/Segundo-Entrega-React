@@ -1,0 +1,18 @@
+.NavBar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+    font-size: larger;
+
+}
+.lista{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.items{
+    padding: 40px;
+}
